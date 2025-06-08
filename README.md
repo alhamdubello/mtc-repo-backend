@@ -1,2 +1,1 @@
-# mtc-repo-backend
-backend Code for MTC
+# This prod repository is for infra developers.
