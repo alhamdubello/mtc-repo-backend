@@ -1,1 +1,1 @@
-# This prod repository is for infra developers.
+# This prod python repository is for backend developers.
